@@ -1,0 +1,28 @@
+{
+  "name": "proxy-example",
+  "version": "1.0.0",
+  "description": "Es6 Proxy examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elranu/proxy-example.git"
+  },
+  "keywords": [
+    "es6",
+    "proxy",
+    "reflect"
+  ],
+  "author": "Mariano Vicario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elranu/proxy-example/issues"
+  },
+  "homepage": "https://github.com/elranu/proxy-example#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  }
+}
